@@ -2,4 +2,4 @@
 
 Simple Earth Animation done with Promises (`fetch()` API) in JS
 
-## [Live preview](https://al1almasi.ir/earth-animation)
+## [Live preview](https://earth-animation-main-qg8p.vercel.app/)
