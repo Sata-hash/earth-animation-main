@@ -7,7 +7,7 @@
 	user-select: none;
 	font-family: "JetBrains Mono", monospace !important;
 	font-weight: 600;
-	color: #77ff00;
+	color: #0000A5 ;
 	cursor: default;
 }
 
@@ -18,7 +18,7 @@ html {
 body {
 	height: 100svh;
 	width: 100svw;
-	background-color: #183333;
+	background-color:#34A56F;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
